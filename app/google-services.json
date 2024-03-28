@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "83855428585",
+    "firebase_url": "https://fir-api-f15e2.firebaseio.com",
+    "project_id": "fir-api-f15e2",
+    "storage_bucket": "fir-api-f15e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83855428585:android:c540b29fb4322868905978",
+        "android_client_info": {
+          "package_name": "com.example.remart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83855428585-u09t03ntkg028os677jj56o5od4l8rf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remart",
+            "certificate_hash": "b0f31b439fb7c11381cbb19215c9cf409166bcef"
+          }
+        },
+        {
+          "client_id": "83855428585-42584pb1ee70rf4hsfvad087ffrb80fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7uyHusL2TokX5hR40SzXVT7eHPV3Z1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83855428585-42584pb1ee70rf4hsfvad087ffrb80fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83855428585:android:1013a6aebecdb6b0905978",
+        "android_client_info": {
+          "package_name": "com.sp.gravitask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83855428585-42584pb1ee70rf4hsfvad087ffrb80fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7uyHusL2TokX5hR40SzXVT7eHPV3Z1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83855428585-42584pb1ee70rf4hsfvad087ffrb80fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
